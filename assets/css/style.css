@@ -393,10 +393,10 @@ h6 {
   letter-spacing: 1px;
   display: inline-block;
   padding: 12px 28px;
-  border-radius: 3px;
+  border-radius: 25px;
   transition: 0.5s;
   color: #fff;
-  background: #009cea;
+  background: #0dcaf0;
 }
 
 #hero .btn-get-started:hover {
@@ -1633,4 +1633,8 @@ section {
   text-align: center;
   font-size: 13px;
   color: #364146;
+}
+
+.img-fluid {
+  border-radius: 10px !important;
 }
